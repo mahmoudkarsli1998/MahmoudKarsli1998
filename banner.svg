@@ -1,10 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Mahmoud Hassan Al Karsli - Software Engineer">
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#ffffff" fill-opacity="0.06"/>
+    </pattern>
+  </defs>
   <rect width="1200" height="300" fill="#0d1117"/>
-  <rect x="80" y="92" width="4" height="116" fill="#2f81f7"/>
+  <rect x="640" width="560" height="300" fill="url(#dots)"/>
+  <rect x="80" y="86" width="4" height="128" fill="#2f81f7"/>
   <g font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif">
-    <text x="108" y="118" font-size="15" font-weight="600" letter-spacing="3" fill="#2f81f7">SOFTWARE ENGINEER</text>
-    <text x="106" y="176" font-size="56" font-weight="700" letter-spacing="-0.8" fill="#f0f6fc">Mahmoud Hassan Al Karsli</text>
+    <text x="108" y="112" font-size="15" font-weight="600" letter-spacing="3" fill="#2f81f7">SOFTWARE ENGINEER</text>
+    <text x="106" y="170" font-size="56" font-weight="700" letter-spacing="-0.8" fill="#f0f6fc">Mahmoud Hassan Al Karsli</text>
+    <text x="108" y="206" font-size="20" fill="#8b949e">Mobile &amp; Full-Stack Developer</text>
   </g>
-  <line x1="80" y1="250" x2="1120" y2="250" stroke="#30363d" stroke-width="1"/>
+  <line x1="80" y1="250" x2="1120" y2="250" stroke="#30363d"/>
+  <text x="80" y="278" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#8b949e">Egypt · Türkiye</text>
   <text x="1120" y="278" text-anchor="end" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#8b949e">mahmoudalkarsli.is-a.dev</text>
 </svg>
