@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://mahmoudalkarsli.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-mahmoudalkarsli.is--a.dev-2f81f7?style=flat-square&labelColor=0d1117" alt="Portfolio"/></a>
   <img src="https://img.shields.io/badge/Experience-4%2B_years-2f81f7?style=flat-square&labelColor=0d1117" alt="Experience"/>
-  <img src="https://visitcount.itsvg.in/api?id=mahmoudkarsli1998&icon=0&color=0" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=mahmoudkarsli1998&style=flat-square&color=2f81f7&label=Profile+views" alt="Profile views"/>
 </p>
 
 ## About Me
@@ -58,20 +58,16 @@ Hi, I'm **Mahmoud Hassan Al Karsli** (محمود حسن الكرسلي), a softw
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mahmoudkarsli1998&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudkarsli1998&layout=compact&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top languages"/>
+  <img width="49%" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats"/>
+  <img width="49%" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top languages by commit"/>
+</p>
+
+<p align="center">
+  <img width="98.5%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Contribution summary"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mahmoudkarsli1998&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahmoudkarsli1998&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=mahmoudkarsli1998&limit=5&theme=github_dark&combine_all_yearly_contributions=true&hide_border=true" alt="Top contributed repositories"/>
 </p>
 
 ## Contribution Graph
@@ -84,6 +80,3 @@ Hi, I'm **Mahmoud Hassan Al Karsli** (محمود حسن الكرسلي), a softw
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random dev quote"/>
-</p>
