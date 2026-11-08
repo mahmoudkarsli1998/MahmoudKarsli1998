@@ -48,11 +48,15 @@ Hi, I'm **Mahmoud Hassan Al Karsli** (محمود حسن الكرسلي), a softw
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,java,cpp,js,ts&theme=dark" alt="Languages and frameworks"/>
+  <img src="https://skillicons.dev/icons?i=dart,flutter,cs,dotnet,kotlin,java,cpp,js,ts&theme=dark" alt="Languages and frameworks"/>
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=firebase,supabase,gcp,sqlite,tensorflow,gradle&theme=dark" alt="Backend, cloud and ML"/>
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,figma&theme=dark" alt="Tools"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/Database_Design-336791?style=flat-square" alt="Database design"/>
 </p>
 
 ## GitHub Stats
